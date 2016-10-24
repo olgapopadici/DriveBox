@@ -72,4 +72,7 @@
       <NewlinesAtEOF Force="false" nBlankLines="0" />
     </Rearranger>
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
 </application>
